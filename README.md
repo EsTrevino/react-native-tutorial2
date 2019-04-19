@@ -15,4 +15,4 @@ Key things learned from React Native:
 
 Video of the app, code is in the src folder
 
-<img src="assets/auth.mp4" height=600 width=300/>
+<img src="assets/auth.gif" height=600 width=300/>

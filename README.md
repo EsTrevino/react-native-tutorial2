@@ -15,4 +15,4 @@ Key things learned from React Native:
 
 Video of the app, code is in the src folder
 
-<iframe width="420" height="315" src="https://www.youtube.com/embed/QQ6LGeFSM1w" frameborder="0" allowfullscreen></iframe>
+<img src="assets/auth.mp4" height=600 width=300/>
